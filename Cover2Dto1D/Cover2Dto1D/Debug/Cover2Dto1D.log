@@ -1,0 +1,7 @@
+﻿  Source.cpp
+g:\github\my study\cover2dto1d\cover2dto1d\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\github\my study\cover2dto1d\cover2dto1d\source.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\github\my study\cover2dto1d\cover2dto1d\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+g:\github\my study\cover2dto1d\cover2dto1d\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+Source.obj : error LNK2019: unresolved external symbol "void __cdecl cover1to2(class std::vector<int,class std::allocator<int> > &)" (?cover1to2@@YAXAAV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function _main
+G:\GITHUB\My Study\Cover2Dto1D\Debug\Cover2Dto1D.exe : fatal error LNK1120: 1 unresolved externals

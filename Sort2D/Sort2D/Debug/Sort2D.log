@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\github\my study\sort2d\sort2d\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sort2D.vcxproj -> G:\GITHUB\My Study\Sort2D\Debug\Sort2D.exe
+  Sort2D.vcxproj -> G:\GITHUB\My Study\Sort2D\Debug\Sort2D.pdb (Partial PDB)
